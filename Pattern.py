@@ -11,7 +11,3 @@ t.left(90)
 t.forward(100)
 t.left(90)
 t.forward(100)
-
-for i in range(5000):
-  t.forward(i)
-  t.left(500)
